@@ -1,0 +1,3 @@
+# Polo API connection info
+api_key = "Insert you Polo API key"
+api_secret = "Insert you Polo API Secret"
